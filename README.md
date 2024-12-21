@@ -4,7 +4,7 @@
 This repository showcases my Tableau skills. Below are links to my works on Tableau Public.
 
 ## Tableau Public Profile
-[My Tableau Public Profile](https://public.tableau.com/profile/yourusername)
+[My Tableau Public Profile](https://public.tableau.com/profile/prashanth.vadityavath)
 
 ## Featured Works
 
