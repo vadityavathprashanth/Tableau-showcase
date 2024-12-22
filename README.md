@@ -33,8 +33,7 @@ This project aims to:
 ## Dashboard Link
 [Native Tree Species in NYC: Trends and Demographics (2005-2015)](https://public.tableau.com/views/NativeTreeSpeciesinNYCTrendsandDemographics2005-2015/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Screenshot
-*(Add a screenshot of the dashboard for better visualization if applicable.)*
+
 
 ## Technologies Used
 - **Tableau Public**: For creating interactive visualizations.
